@@ -198,3 +198,15 @@ body {
     border-color: #df4929;
 }
 /* End Buttons */
+
+/* Footer */
+.socials {
+    text-align: center;
+}
+
+.socials i {
+    margin: 0 40px 0;
+    font-size: 30px;
+    color: #fff;
+}
+/* End Footer */
